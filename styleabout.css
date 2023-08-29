@@ -1,0 +1,139 @@
+*{
+    padding: 0px ; 
+    margin: 0px ; 
+}
+body{
+  background-color: black;
+}
+header{
+    background-image: url(https://img.freepik.com/free-vector/abstract-neon-triangle-with-wave-lights-background_1017-32126.jpg?w=1380&t=st=1671799136~exp=1671799736~hmac=e675798b4562b575d649bd3e961214ba7a88fee5f80348dcf03366297859807f);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    position: relative;
+
+}
+nav {
+    position: absolute;
+    bottom: 50px ; 
+    right: 10px ;
+}
+nav a {
+    text-decoration: none;
+    color: #fff ; 
+    margin : 0px 20px  0px 20px ; 
+    font-size : 22px ; 
+
+}
+nav a:hover {
+    border-bottom: #fff solid 2px ;
+
+}
+.home{ 
+    background-color: black;
+}
+.home1 h1{
+    color: purple;
+     text-align: center ; 
+        margin: 20px 0px ;
+}
+
+ .home1 p {
+   margin: 0px auto;
+    width: 70%;
+    color: white; 
+    line-height: 1.4;
+}
+.home1{
+    background-color: black;
+}
+.slides-employees1{
+    display: flex;
+    padding-left: 200px;
+padding-top: 50px;
+}
+.slides-employees .slide1{
+    padding-right: 20px;
+    padding-left: 50px;
+}
+.slides-employees .slide1{
+    padding-right: 20px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.slides-employees2{
+    display: flex;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+
+
+
+.slide1-h2-p h2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: blue;
+}
+.slide1-h2-p span{
+    padding-bottom: 20px;
+    color:palevioletred;
+
+}
+.slide1-h2-p p{
+    padding-top: 20px;
+    width: 55%;
+    color: wheat;
+}
+
+
+
+
+.picture{
+    width: 100%;
+        margin: auto;
+        height: 30vh;
+        background: url(https://img.freepik.com/premium-vector/shop-now-neon-lighting-brick-wall-vector-illustration_647138-261.jpg?w=1380) fixed center;
+        background-size: cover;
+      
+}
+.home1 .slide1 img {
+    width: 200px ;
+}
+.home1 {
+  margin: 0px auto;
+}
+
+
+.about1   {
+       
+       padding:  50px 0px ;
+       background-color: black;
+
+} 
+
+
+.about1 .discription {
+    float : right ;
+    width : 500px ; 
+    margin-right:  500px ;
+    margin-top: 20px ;
+    background-color: black;
+}
+
+
+.about1 img {
+width : 300px ;
+float : left ; 
+margin-left: 150px ;
+height: 400px ;
+
+}
+
+.about1 .discription h2 {
+    color:purple ;
+}
+.about1 .discription p {
+    line-height: 1.5 ;
+    color: white; 
+}

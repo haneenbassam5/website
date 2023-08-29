@@ -1,0 +1,156 @@
+*{
+    padding: 0px ; 
+    margin: 0px ; 
+
+}
+body{
+    background-color: black;
+}
+header{
+    background-image: url(https://img.freepik.com/free-vector/abstract-neon-triangle-with-wave-lights-background_1017-32126.jpg?w=1380&t=st=1671799136~exp=1671799736~hmac=e675798b4562b575d649bd3e961214ba7a88fee5f80348dcf03366297859807f);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    position: relative;
+
+}
+nav {
+    position: absolute;
+    bottom: 50px ; 
+    right: 10px ;
+}
+nav a {
+    text-decoration: none;
+    color: #fff ; 
+    margin : 0px 20px  0px 20px ; 
+    font-size : 22px ; 
+
+}
+nav a:hover {
+    border-bottom: #fff solid 2px ;
+
+}
+            .slide3{
+        text-align: center;
+        padding-top: 20px;
+        background-color:black;
+        color: white;
+
+      }
+      .slide3 h1{
+        margin: 20px 0;
+        font-size: 2.2rem;
+        color: purple;
+      
+      }
+      .slides-contact{
+        width: 60%;
+        padding-top: 50px;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 10px auto;
+        color: white;
+         
+      }
+      .part1-slide3{
+        width: 400px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+       margin: 10px ;
+      
+
+      }
+    
+      .data input{
+        width: 250px;
+        padding: 10px;
+        margin-bottom: 4px;
+        border: none;
+        border-bottom: 1px solid purple;
+
+      }
+      textarea{
+        width: 250px;
+        height: 100px;
+        border: none;
+        border-bottom: 1px solid purple;
+        
+      }
+      .submit-send input{
+        background-color:fuchsia;
+        color: white;
+        width: 70px;
+        padding: 5px;
+        border-radius: 3px;
+        float: right;
+        margin-top: 10px;
+        border: none;
+        transition: 0.5s ease-in-out;
+      }      
+
+      .part2-section3{
+        margin-right: 110px;
+        color:wheat;
+      }
+      .part2-section3 h1{
+      color:blue;
+      margin-top: -50px;
+      padding-bottom: 30px;
+      
+      }
+      .part2-section3 p{
+      margin: 20px 0;
+      padding-left: 20px;
+      color: wheat;
+      }
+      
+      .FAQs{
+        text-align: center;
+        width: 50%;
+        margin: auto;
+        color: white;
+
+      }
+      .FAQs h2{
+      color:purple;
+      }
+      .FAQs h1{
+        padding: 20px 0;
+      color: plum;
+ 
+      }
+      .FAQs p{
+      line-height: 25px;
+      color: wheat;
+      }
+      .inquairy{
+        width: 340px;
+        padding: 10px;
+        border: 0.8px solid wheat;
+        margin: 20px auto;
+        border-radius: 2px;
+      }
+      h6{
+        display: inline;
+        font-size: 14px;
+        color: pink;
+        
+      }
+      .checkbox{
+        margin-left: 30px;
+        padding: 5px;
+    
+        
+      }
+      footer{
+        padding:20px 0;
+      }
+      footer h5{
+        text-align: center;
+        font-size: 16px;
+        color:white;
+      }

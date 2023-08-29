@@ -1,0 +1,136 @@
+*{
+    padding: 0px ; 
+    margin: 0px ; 
+
+}
+body{
+    background-color: black;
+}
+header{
+    background-image: url(https://img.freepik.com/free-vector/abstract-neon-triangle-with-wave-lights-background_1017-32126.jpg?w=1380&t=st=1671799136~exp=1671799736~hmac=e675798b4562b575d649bd3e961214ba7a88fee5f80348dcf03366297859807f);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    position: relative;
+
+}
+
+nav {
+    position: absolute;
+    bottom: 50px ; 
+    right: 10px ;
+}
+nav a {
+    text-decoration: none;
+    color: #fff ; 
+    margin : 0px 20px  0px 20px ; 
+    font-size : 22px ; 
+
+}
+nav a:hover  {
+    border-bottom: white solid 2px ;
+
+}
+
+.home{
+    background-color: black;
+}
+.home1 h1{
+    color: purple;
+
+}
+
+ .home1 p {
+   margin: 0px auto;
+    width: 70%;
+    color: palevioletred; 
+    line-height: 1.4;
+}
+.home1{
+      text-align: center ; 
+        margin: 20px 0px ;
+background-color: black;
+overflow: hidden;
+
+}
+.slides-1{
+    display: flex;
+    padding-top: 40px;
+}
+.slides-2{
+display: flex;
+padding-top: 20px;
+}
+.home1 img {
+    width: 200px ; 
+    height: 170px ;
+}
+
+.slide1home1{
+    padding-left: 200px;
+    padding-right: 50px;
+}
+.slide1home1 h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: blue;
+}
+.slide1home1 p{
+    color:white;
+    padding-bottom: 10px; 
+     width : 50% ; 
+}
+.slide1home1 span{
+    padding-bottom: 50px; 
+color: purple;
+
+}
+    
+
+.home2     {       
+       padding:  50px 0px ;
+       position: relative;
+       overflow: hidden;
+       background-color: black;
+
+} 
+.home2 .caption {
+    float : right ;
+    width : 500px ; 
+    margin-right:  500px ;
+    margin-top: 20px ;
+}
+
+.home2 img {
+width : 300px ;
+float : left ; 
+margin-left: 150px ;
+height: 400px ;
+
+}
+
+.home2 .caption h2 {
+    color:blue ;
+}
+.home2 .caption p {
+    line-height: 1.5 ;
+    color: white; 
+}
+.home2 .caption button {
+     position: absolute;
+ right: 500px ;
+   margin-top: 80px ;  
+   background-color: palevioletred;
+   border: 2px solid  powderblue;
+   padding: 7px 10px ;
+}
+.home2 .caption button a {
+    text-decoration: none;
+    color: white;
+}
+.neons{
+    text-align: center;
+    padding: 20px 0px ;
+    color: white; 
+    background-color: black;
+}
